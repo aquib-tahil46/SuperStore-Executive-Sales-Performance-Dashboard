@@ -16,6 +16,12 @@ Retail leadership needs a single, reliable view of sales, profit, and operationa
 - Where is profit concentrated or leaking by month?
 - How efficient are delivery and fulfillment channels?
 - What does demand look like over the next 15 days?
+---
+## 📊 Dashboard Preview
+
+![Executive Sales Performance Dashboard](screenshots/executive-dashboard.png)
+
+![SuperStore Sales Forecast]<img width="591" height="331" alt="Superstore_Forecast" src="https://github.com/user-attachments/assets/10cd1df3-c4d4-40fd-b6d1-4eccadbda39f" />
 
 ---
 
