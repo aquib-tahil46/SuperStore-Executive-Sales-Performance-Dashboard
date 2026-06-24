@@ -17,12 +17,8 @@ Retail leadership needs a single, reliable view of sales, profit, and operationa
 - How efficient are delivery and fulfillment channels?
 - What does demand look like over the next 15 days?
 ---
+
 ## 📊 Dashboard Preview
-
-[Executive Sales Performance Dashboard].<img width="590" height="332" alt="Superstore_Sales_DB" src="https://github.com/user-attachments/assets/5cc75467-dbb8-4fbc-9b32-9782ed84d002" />
-
-
-![SuperStore Sales Forecast]<img width="591" height="331" alt="Superstore_Forecast" src="https://github.com/user-attachments/assets/10cd1df3-c4d4-40fd-b6d1-4eccadbda39f" />
 
 ![Executive Sales Performance Dashboard](https://github.com/user-attachments/assets/5cc75467-dbb8-4fbc-9b32-9782ed84d002)
 *Executive Sales Performance Dashboard*
