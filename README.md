@@ -19,7 +19,8 @@ Retail leadership needs a single, reliable view of sales, profit, and operationa
 ---
 ## 📊 Dashboard Preview
 
-![Executive Sales Performance Dashboard](screenshots/executive-dashboard.png)
+![Executive Sales Performance Dashboard].<img width="590" height="332" alt="Superstore_Sales_DB" src="https://github.com/user-attachments/assets/5cc75467-dbb8-4fbc-9b32-9782ed84d002" />
+
 
 ![SuperStore Sales Forecast]<img width="591" height="331" alt="Superstore_Forecast" src="https://github.com/user-attachments/assets/10cd1df3-c4d4-40fd-b6d1-4eccadbda39f" />
 
